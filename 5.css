@@ -31,10 +31,10 @@ header .heading {
 
 .main {
   width: 800px;
-  padding: 0 50px; /*無し*/
+  /*padding: 0 50px;*/
   display: flex;
-  justify-content: center;
-  margin: 0 auto;
+  /*justify-content: center;*/
+  margin: 50px auto;
   flex-wrap: wrap;
   
 }
